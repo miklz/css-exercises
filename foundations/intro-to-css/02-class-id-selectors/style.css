@@ -1,0 +1,20 @@
+.odd {
+    background-color: hsl(350, 100%, 88%);
+    font-size: 18px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: hsl(240, 84%, 47%);
+    font-size: 36px;
+}
+
+.odd.odd-addition {
+    font-size: 24px;
+}
+
+#forth {
+    background-color: hsl(120, 69%, 72%);
+    font-size: 24px;
+    font-weight: bold;
+}
